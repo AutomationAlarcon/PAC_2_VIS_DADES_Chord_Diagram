@@ -1,1 +1,7 @@
+Fuente de los datos:
+https://www.atptour.com/es/players/atp-head-2-head/novak-djokovic-vs-roger-federer/D643/F324
 
+Urls utilizadas:
+https://stackoverflow.com/questions/65030626/creating-chord-diagram-in-python/74404594#74404594
+https://pypi.org/project/d3blocks/
+https://d3blocks.github.io/d3blocks/pages/html/d3graph.html
